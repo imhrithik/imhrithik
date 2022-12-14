@@ -1,4 +1,5 @@
 ### Hi there I Am Hrithik Gupta!👋
+### I am a Computer Science and Mathematics Student.
 
 <!--
 **imhrithik/imhrithik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
