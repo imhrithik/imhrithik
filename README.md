@@ -1,4 +1,4 @@
-### Hi there I Am Hrithik Gupta!👋
+### Hi there! I Am Hrithik Gupta!👋
 ### I am a Computer Science and Mathematics Student.
 
 <!--
